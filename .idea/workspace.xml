@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/service/MyUserDetailsService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/helloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/controller/helloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SpringSecurityApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SpringSecurityApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="" />
