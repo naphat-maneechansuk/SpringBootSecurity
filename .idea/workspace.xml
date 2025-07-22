@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/helloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
