@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/service/MyUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/helloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/controller/helloController.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
