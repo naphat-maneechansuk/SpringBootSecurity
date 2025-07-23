@@ -32,11 +32,15 @@ public class SecurityConfig {
 //        http.sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS));
         return http.build();
     }
+
+
     @Bean
     public AuthenticationProvider authenticationProvider(){
         DaoAuthenticationProvider provider = new DaoAuthenticationProvider();
         provider.setPasswordEncoder(NoOpPasswordEncoder.getInstance());
-        provider.setUserDetailsPasswordService((UserDetailsPasswordService) userDetailsService);
+        provider.setUserDetailsService(userDetailsService);
         return provider;
     }
+
+
 }

@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="" />
+    <list default="true" id="dc43f3d0-031d-4f7d-8c46-3e7b0edec81c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/model/UserPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/repo/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/service/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/learning/SpringSecurity/service/MyUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -24,6 +34,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="30DwO1f4pvkwiX9x9DOJlibTdOy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
